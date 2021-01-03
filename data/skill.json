@@ -1,0 +1,68 @@
+ {
+        "web" : [
+            {
+                "name" : "HTML5"
+            },
+            {
+                "name" : "CSS3"
+            },
+            {
+                "name" : "XML"
+            },
+            {
+                "name" : "SASS"
+            },
+            {
+                "name" : "SQL"
+            },
+            {
+                "name" : "JavaScript",
+                "details" : [
+                    "AJAX",
+                    "jQuery",
+                    "VueJS",
+                    "React"
+                ]
+            },
+            {
+                "name" : "PHP7",
+                "details" : [
+                    "PHP orienté Object – (Design Pattern MVC)",
+                    "Symfony 4",
+                    "API REST (API Platform)"
+                ]
+            },
+            {
+                "name" : "CMS",
+                "details" : [
+                    "Wordpress / WooCommerce",
+                    "Joomla",
+                    "Drupal",
+                    "Prestashop"
+                ]
+            },
+            {
+                "name" : "Bootstrap"
+            },
+            {
+                "name" : "GIT"
+            },
+            {
+                "name" : "Webpack"
+            }
+        ],
+
+        "design" : [
+            {
+                "name" : "Photoshop"
+            },
+            {
+                "name" : "Figma"
+            }
+
+        ]
+
+    }
+
+
+
